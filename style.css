@@ -67,7 +67,7 @@ html {
   height: 100%;
   justify-content: center;
   position: relative;
-  top: 0em;
+  top: -1em;
 }
 .full-width {
   width: calc(10px + 2em + 80%)!important;
