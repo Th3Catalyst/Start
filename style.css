@@ -67,6 +67,8 @@ html {
   position: relative;
   top: -1em;
 }
+@media only screen and (min-width: 767px) {
 .full-width {
   width: calc(10px + 2em + 80%)!important;
+}
 }
