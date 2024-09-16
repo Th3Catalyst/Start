@@ -60,6 +60,7 @@ html {
 .center h3 {
   text-align: center;
   border-bottom: solid 2px #000;
+  font-family: "Lexend";
 }
 .center {
   display: flex;
