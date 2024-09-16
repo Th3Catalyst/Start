@@ -6,7 +6,7 @@ html {
   width: 100%;
   background-repeat: repeat;
   font-family: Arial, sans-serif;
-  background-image: radial-gradient(#e3a52f, #11607e 70%);
+  background-image: radial-gradient(#264653, #2a9d8f 70%);
 }
 .header h1 {
   font-size: 250%;
