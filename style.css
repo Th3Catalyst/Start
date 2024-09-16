@@ -69,3 +69,6 @@ html {
   position: relative;
   top: 2em;
 }
+.full-width {
+  width: 100%!important;
+}
