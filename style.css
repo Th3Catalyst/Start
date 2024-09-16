@@ -70,5 +70,5 @@ html {
   top: 2em;
 }
 .full-width {
-  width: calc(2em + 80%)!important;
+  width: calc(10px + 2em + 80%)!important;
 }
